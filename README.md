@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dhananjay</h1>
-<h3 align="center">Computer Vision and NLP Engineer | Senior AI Engineer at Doaz</h3>
+<h3 align="center">Computer Vision and NLP Engineer | Senior AI Engineer at Infutrix</h3>
 
 ### About Me
 🔭 I’m currently working on **a RAG-based chatbot and AI for construction blueprints**  
